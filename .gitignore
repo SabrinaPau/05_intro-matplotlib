@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DS store
+.DS_Store
+# Don't upload data
+data/
