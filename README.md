@@ -18,3 +18,5 @@ Keep in mind, you succeed better as a team. There are NO stupid questions! If yo
 **Find some help/support here**:
 
 Google 'Matplotlib {your problem here}' ;)
+
+A handy cheatsheet for matplotlib: https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf
