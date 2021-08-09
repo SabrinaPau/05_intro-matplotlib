@@ -130,6 +130,7 @@ dmypy.json
 
 # DS store
 .DS_Store
-# Don't upload data
-data/
+
+# # Do upload data
+# data/
 .virtual_documents/
