@@ -19,4 +19,4 @@ Keep in mind, you succeed better as a team. There are NO stupid questions! If yo
 
 Google 'Matplotlib {your problem here}' ;)
 
-A handy cheatsheet for matplotlib: https://github.com/matplotlib/cheatsheets/blob/master/cheatsheets.pdf
+Handy cheatsheets for matplotlib: https://github.com/matplotlib/cheatsheets/
