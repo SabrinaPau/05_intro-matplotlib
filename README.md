@@ -8,15 +8,18 @@ As a Data Analyst it is necessary to turn numeric and non-numeric data into easy
 
 ## Task 
 
-Before we start activate your nf_base environment. 
+Open the repository in VSCode and activate your nf_base environment. 
 
-Please work in pairs through all the notebooks in order
+Please work through the [Basic Plotting with Matplotlib Notebook](Basic_plotting_with_matplotlib.ipynb). This Notebook will give you an overview of some Basic Plotting Options needed for an EDA in Python.
 
-Keep in mind, you succeed better as a team. There are NO stupid questions! If you already feel comfortable with the concepts, you might even learn more from teaching them!
+There are more Notebooks on advanced Plotting options in the [Notebook-folder](notebooks). You can work through these notebooks as Extra Credit during free time.
 
 
 **Find some help/support here**:
 
 Google 'Matplotlib {your problem here}' ;)
 
-Handy cheatsheets for matplotlib: https://github.com/matplotlib/cheatsheets/
+Handy cheatsheets for matplotlib: https://github.com/matplotlib/cheatsheets/  
+Youtube tutorial: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl  
+Medium article: https://towardsdatascience.com/visualizations-with-matplotlib-part-1-c9651008b6b8
+
