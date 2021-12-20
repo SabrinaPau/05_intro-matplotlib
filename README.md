@@ -8,11 +8,12 @@ As a Data Analyst it is necessary to turn numeric and non-numeric data into easy
 
 ## Task 
 
-Open the repository in VSCode and activate your nf_base environment. 
+Open the repository in VSCode and create a new environment from the environment yml file:  
+```conda env create -f environment.yml```  
 
-Please work through the [Basic Plotting with Matplotlib Notebook](Basic_plotting_with_matplotlib.ipynb). This Notebook will give you an overview of some Basic Plotting Options needed for an EDA in Python.
+Please work through the [Basic Plotting with Matplotlib Notebook](Basic_plotting_with_matplotlib.ipynb). This Notebook will give you an overview of some basic plotting options needed for an EDA in Python.
 
-There are more Notebooks on advanced Plotting options in the [Notebook-folder](notebooks). You can work through these notebooks as Extra Credit during free time.
+There are more Notebooks on advanced plotting options in the [Notebook-folder](notebooks). You can work through these notebooks as Extra Credit during free time.
 
 
 **Find some help/support here**:
