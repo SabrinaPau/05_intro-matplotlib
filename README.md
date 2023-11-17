@@ -8,8 +8,26 @@ As a Data Analyst it is necessary to turn numeric and non-numeric data into easy
 
 ## Task 
 
+Analytics courses:
+
 Open the repository in VSCode and activate your nf_base environment or if this is missing create a new environment from the environment.yml file:  
 ```conda env create -f environment.yml```  
+
+Data Science Courses:
+
+environment:
+
+``` 
+pyenv local 3.9.8
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install pandas
+pip install matplotlib
+pip install seaborn
+```
+
+
 
 Please work through the [Basic Plotting with Matplotlib Notebook](Basic_plotting_with_matplotlib.ipynb). This Notebook will give you an overview of some basic plotting options needed for an EDA in Python.
 
